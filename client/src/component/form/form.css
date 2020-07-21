@@ -1,0 +1,32 @@
+input{
+    outline: none;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 40px;
+    padding-left: 10px;
+    border : none;
+    border-bottom: 1px solid gray;
+}
+button{
+    outline: none;
+    margin-bottom: 40px;
+}
+.form{
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 420px;
+    margin: 50px auto;
+}
+.insideForm{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    background-color: transparent;
+    border : 1px solid #999;
+    padding: 10px 25px;
+    border-radius: 5px;
+}

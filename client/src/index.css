@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+border-bottom : 1px solid lightgray;
+display: flex;
+justify-content: space-around;
+height: 40px;
+}
